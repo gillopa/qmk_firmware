@@ -9,10 +9,10 @@
         "device_version": "0.0.1"
     },
     "matrix_pins": {
-        "cols": ["B0", "F5", "F6", "F7", "C7", "C6", "B6", "B5", "B4", "D7", "D6", "D4"],
-        "rows": ["D1", "F4", "F1", "F0"]
+        "cols":["F4", "F5", "F6", "F7", "B1", "B3", "B2", "B6", "B5", "B4", "E6", "D7"] ,
+        "rows": ["C6", "D4", "D0", "D1"]
     },
-    "diode_direction": "COL2ROW",
+    "diode_direction": "ROW2COL",
     "backlight": {
         "pin": "B7",
         "levels": 5
